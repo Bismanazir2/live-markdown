@@ -1,0 +1,6 @@
+{
+  "name": "Live Markdown Engine",
+  "description": "A responsive, real-time Markdown editor with live preview, syntax highlighting, and scroll synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
